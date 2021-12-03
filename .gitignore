@@ -1,0 +1,4 @@
+# List of untracked files to ignore
+.DS_Store
+/untracked_nibp_processor/documentation
+/untracked_nibp_processor/simCache/slprj
